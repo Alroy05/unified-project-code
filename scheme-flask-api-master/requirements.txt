@@ -1,0 +1,11 @@
+Flask
+langchain-community
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-core
+langchain-groq
+chromadb
+google-generativeai
+beautifulsoup4
+gunicorn

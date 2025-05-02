@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+geopy
+folium
+osmnx
+networkx
+plotly
+requests
+python-dotenv
+rtree
+matplotlib
+scikit-learn
